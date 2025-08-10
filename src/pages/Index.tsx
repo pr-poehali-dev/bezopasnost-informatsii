@@ -87,7 +87,7 @@ export default function Index() {
             <div className="lg:w-1/2 lg:pl-12">
               <div className="relative">
                 <img 
-                  src="/img/d99d0e0b-dfc3-4144-ae71-484172d45d4f.jpg" 
+                  src="/img/35871601-953c-48e3-a1c2-9df7d0e0c6b3.jpg" 
                   alt="Информационная безопасность" 
                   className="rounded-2xl shadow-2xl max-w-full h-auto"
                 />
